@@ -5,4 +5,4 @@ the implementing classes are subject to change when the interface changes. An ad
 method signature requires modifying all the implementation classes even if some of them don’t use the method.
 The Interface Segregation Principle advocates segregating a “fat interface” into smaller and highly cohesive interfaces,
  known as “role interfaces”. Each “role interface” declares one or more methods for a specific behavior. Thus clients, 
- instead of implementing a “fat interface”, can implement only those “role interfaces” whose methogds are relevant to them.
+ instead of implementing a “fat interface”, can implement only those “role interfaces” whose methoggit ds are relevant to them.
